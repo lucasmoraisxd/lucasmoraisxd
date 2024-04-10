@@ -29,7 +29,6 @@
   
  </div>
 <br>
-<hr>
 
 <img src="./assets/image/Galileo_satellite_pillars.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
