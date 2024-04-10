@@ -26,7 +26,6 @@
   <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraisxd&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
 </p>
 
-
 <br>
  
   
@@ -34,7 +33,7 @@
 <br>
 <hr>
 
-<img src="./img/computer-gif.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="./assets/image/Galileo_satellite_pillars.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div style="display: flex; justify-content: space-around;">
 
