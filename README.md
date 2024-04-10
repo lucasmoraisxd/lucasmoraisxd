@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morais-b53548245/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmorais321@gmail.com)
 
-   <h5>ABOUT ME:</h5> 
+   <h5>Sobre Mim:</h5> 
   </p>
 
 - 🏆 I created a great passion for development and my dream is to become a great full stack developer
@@ -16,9 +16,7 @@
 
 - 💻 Graduating in Information Systems 3/8
 
-- ✉️ how to reach me **devpedrorosa@gmail.com**
-
-- 🎵 "I'm only human after all"
+- ✉️ how to reach me **lucasmorais321@gmail.com**
 
  <hr>
   <p align="center">
@@ -38,17 +36,21 @@
 <div style="display: flex; justify-content: space-around;">
 
   <div>
-    <h1> 📜Skills</h1>
+    <h1> 📜Linguagem</h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=R&perline=6" />
+      <img src="https://skillicons.dev/icons?i=r&perline=6" />
     </a>
   </div>
 <br>
-  <div>
-    <h1> 📚Studying </h1>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,typescript,php,react,laravel,nextjs,kotlin,swift,mysql&perline=7" />
-    </a>
-  </div>
-
 </div>
+
+<div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p></p></div>
+
+- Perfil criado por [Pedro Rosa](https://github.com/pedrorosa-dev)
