@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Lucas+Morais;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Lucas+de+Morais+Teixeira;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="left"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=lucasmoraisxd&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
 
@@ -10,13 +10,13 @@
    <h5>Sobre Mim:</h5> 
   </p>
 
-- 🏆 I created a great passion for development and my dream is to become a great full stack developer
+- 🎓 Mestrando em Geografia pelo Programa de Pós-Graduação em Geografia da Universidade Federal de Alagoas (PPGG/UFAL);
 
-- 🚀 web developer and future mobile developer
+- 🌧️ Membro efetivo do Grupo de pesquisa em Climatologia Teórica e Aplicada (CTA/IGDEMA/UFAL) com estudos na Evapotranspiração potencial e real;
 
-- 💻 Graduating in Information Systems 3/8
+- 💻 Softwares que utilizo em minhas pesquisas: QGIS e RStudio
 
-- ✉️ how to reach me **lucasmorais321@gmail.com**
+- ✉️ Contato: **lucasmorais321@gmail.com**
 
  <hr>
   <p align="center">
