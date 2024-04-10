@@ -28,12 +28,11 @@
  
   
  </div>
-<img src="./assets/image/Galileo_satellite_pillars.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div style="display: flex; justify-content: space-around;">
 
   <div>
-    <h1> 📜Linguagem</h1>
+    <h1 > 📜Linguagem</h1>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=r&perline=6" />
     </a>
@@ -45,9 +44,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <p></p></div>
+
+<img src="./assets/image/Galileo_satellite_pillars.gif" min-width="400px" max-width="400px" width="820px"    alt="Satelite">
+
+<br>
 
 - Perfil criado por [Pedro Rosa](https://github.com/pedrorosa-dev)
